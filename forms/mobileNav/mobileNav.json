@@ -18,13 +18,22 @@
         "Elements", 
         "hmbMenu.json"
       ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "mobileNav", 
+        "Elements", 
+        "btnPreviousPage.json"
+      ]
     }
   ], 
   "class": "", 
   "designHeight": 0, 
   "designWidth": 0, 
   "expanded_pmp": null, 
-  "fullScreen": "true", 
+  "fullScreen": "zoom", 
   "height": 460, 
   "id": "mobileNav", 
   "language": "JavaScript", 
